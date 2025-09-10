@@ -1,6 +1,6 @@
 {
   "name": "SocialNOT Wiki",
-  "description": "Explore an infinite wiki where every word is a hyperlink to descriptions generated in real-time.",
+  "description": "An encyclopedia where every word is a link. Click any word to dive deeper into an endless chain of knowledge in realtime.",
   "requestFramePermissions": [],
   "prompt": ""
 }
